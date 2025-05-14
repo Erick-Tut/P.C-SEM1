@@ -1,0 +1,14 @@
+C:\Users\Erick\PensamientoComputacional\ProyectoA\bin\Debug\net9.0\ProyectoA.exe
+C:\Users\Erick\PensamientoComputacional\ProyectoA\bin\Debug\net9.0\ProyectoA.deps.json
+C:\Users\Erick\PensamientoComputacional\ProyectoA\bin\Debug\net9.0\ProyectoA.runtimeconfig.json
+C:\Users\Erick\PensamientoComputacional\ProyectoA\bin\Debug\net9.0\ProyectoA.dll
+C:\Users\Erick\PensamientoComputacional\ProyectoA\bin\Debug\net9.0\ProyectoA.pdb
+C:\Users\Erick\PensamientoComputacional\ProyectoA\obj\Debug\net9.0\ProyectoA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\PensamientoComputacional\ProyectoA\obj\Debug\net9.0\ProyectoA.AssemblyInfoInputs.cache
+C:\Users\Erick\PensamientoComputacional\ProyectoA\obj\Debug\net9.0\ProyectoA.AssemblyInfo.cs
+C:\Users\Erick\PensamientoComputacional\ProyectoA\obj\Debug\net9.0\ProyectoA.csproj.CoreCompileInputs.cache
+C:\Users\Erick\PensamientoComputacional\ProyectoA\obj\Debug\net9.0\ProyectoA.dll
+C:\Users\Erick\PensamientoComputacional\ProyectoA\obj\Debug\net9.0\refint\ProyectoA.dll
+C:\Users\Erick\PensamientoComputacional\ProyectoA\obj\Debug\net9.0\ProyectoA.pdb
+C:\Users\Erick\PensamientoComputacional\ProyectoA\obj\Debug\net9.0\ProyectoA.genruntimeconfig.cache
+C:\Users\Erick\PensamientoComputacional\ProyectoA\obj\Debug\net9.0\ref\ProyectoA.dll
