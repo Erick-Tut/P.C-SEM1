@@ -1,0 +1,14 @@
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.exe
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.deps.json
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.runtimeconfig.json
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.dll
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.pdb
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.AssemblyInfo.cs
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.dll
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\obj\Debug\net9.0\refint\MiPrimerProyecto.dll
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.pdb
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.genruntimeconfig.cache
+C:\Users\Erick\Proyecto\lab8\MiPrimerProyecto\obj\Debug\net9.0\ref\MiPrimerProyecto.dll
