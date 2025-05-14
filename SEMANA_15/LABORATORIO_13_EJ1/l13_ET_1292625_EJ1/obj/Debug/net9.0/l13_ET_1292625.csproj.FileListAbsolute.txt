@@ -1,0 +1,14 @@
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\obj\Debug\net9.0\l13_ET_1292625.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\obj\Debug\net9.0\l13_ET_1292625.AssemblyInfoInputs.cache
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\obj\Debug\net9.0\l13_ET_1292625.AssemblyInfo.cs
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\obj\Debug\net9.0\l13_ET_1292625.csproj.CoreCompileInputs.cache
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\bin\Debug\net9.0\l13_ET_1292625.exe
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\bin\Debug\net9.0\l13_ET_1292625.deps.json
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\bin\Debug\net9.0\l13_ET_1292625.runtimeconfig.json
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\bin\Debug\net9.0\l13_ET_1292625.dll
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\bin\Debug\net9.0\l13_ET_1292625.pdb
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\obj\Debug\net9.0\l13_ET_1292625.dll
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\obj\Debug\net9.0\refint\l13_ET_1292625.dll
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\obj\Debug\net9.0\l13_ET_1292625.pdb
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\obj\Debug\net9.0\l13_ET_1292625.genruntimeconfig.cache
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625\obj\Debug\net9.0\ref\l13_ET_1292625.dll

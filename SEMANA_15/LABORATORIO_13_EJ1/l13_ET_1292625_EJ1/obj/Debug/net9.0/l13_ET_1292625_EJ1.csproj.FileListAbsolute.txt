@@ -1,0 +1,14 @@
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\bin\Debug\net9.0\l13_ET_1292625_EJ1.exe
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\bin\Debug\net9.0\l13_ET_1292625_EJ1.deps.json
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\bin\Debug\net9.0\l13_ET_1292625_EJ1.runtimeconfig.json
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\bin\Debug\net9.0\l13_ET_1292625_EJ1.dll
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\bin\Debug\net9.0\l13_ET_1292625_EJ1.pdb
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\obj\Debug\net9.0\l13_ET_1292625_EJ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\obj\Debug\net9.0\l13_ET_1292625_EJ1.AssemblyInfoInputs.cache
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\obj\Debug\net9.0\l13_ET_1292625_EJ1.AssemblyInfo.cs
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\obj\Debug\net9.0\l13_ET_1292625_EJ1.csproj.CoreCompileInputs.cache
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\obj\Debug\net9.0\l13_ET_1292625_EJ1.dll
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\obj\Debug\net9.0\refint\l13_ET_1292625_EJ1.dll
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\obj\Debug\net9.0\l13_ET_1292625_EJ1.pdb
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\obj\Debug\net9.0\l13_ET_1292625_EJ1.genruntimeconfig.cache
+C:\Users\Erick\PensamientoComputacional\l13_ET_1292625_EJ1\obj\Debug\net9.0\ref\l13_ET_1292625_EJ1.dll
